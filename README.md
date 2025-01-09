@@ -10,7 +10,6 @@ Hello, my name is Misrael Florentino. I am a software developer with a passion f
 
 ### 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=misraelDev&theme=dark&hide_border=false" height="150" alt="GitHub Streak Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=misraeldev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="Top Languages"/>
 </div>
 
