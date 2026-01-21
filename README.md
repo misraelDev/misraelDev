@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there. I'm MisraelDev 👋
+# Hi there. I'm MisraelDev
 
 ## About me
 Hello, my name is misraelDev. I am a software developer with a passion for programming and technology. I love learning new programming languages and sharing my knowledge with the community. Welcome to my GitHub !
